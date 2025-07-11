@@ -1,4 +1,0 @@
-this is docker file
-docker a new file
-docer ps
-docker run -itd httpd
