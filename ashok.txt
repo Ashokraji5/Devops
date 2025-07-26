@@ -1,1 +1,2 @@
 docer is a containerzation tool
+lightweight, standalone, excutable package need to run
