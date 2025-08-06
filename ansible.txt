@@ -3,4 +3,6 @@ nsible is an open-source automation engine used for IT automation, including pro
 
 this is new file
 added new items
+For Vagrant Cloud questions, feedback, or feature requests, please submit a ticket to HashiCorp Support.
 
+vagrant cloud free and automation tool
